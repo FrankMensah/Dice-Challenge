@@ -1,2 +1,2 @@
 # Dice-Challenge
-Javascript: Randomize two var to get int > the other to determine the winner
+Refresh page to get the Winner; hosted here: https://frankmensah.github.io/Dice-Challenge/dicee.html
